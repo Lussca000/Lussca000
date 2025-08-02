@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Lucas de Medeiros Silva, tenho 21 anos e sou natural do Mogi das Cruzes. Atualmente, estou cursando Engenharia de Software na estácio e Análise e Desenvolvimento de Sistemas na FATEC.
+Me chamo Lucas de Medeiros Silva, tenho 21 anos e sou natural do Mogi das Cruzes. Atualmente, estou cursando Engenharia de Software na Estácio e estudando pela Alura.
 
 ---
 
