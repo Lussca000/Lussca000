@@ -87,7 +87,7 @@ Me chamo Lucas de Medeiros Silva, tenho 21 anos e sou natural do Mogi das Cruzes
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/java@0.16.1/index.min.js"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java logo com nome"
 />
 
 <br/>
