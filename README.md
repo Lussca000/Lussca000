@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Lucas Silva
+<img width="1920" height="863" alt="image" src="https://github.com/user-attachments/assets/b89504ec-3de0-48df-bd90-bd2d82e4fbe6" /># 👩🏻‍💻 Lucas Silva
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Lucas de Medeiros Silva, tenho 21 anos e sou natural do Mogi das Cruzes. Atualmente, estou cursando Engenharia de Software na Estácio e estudando pela Alura.
+Me chamo Lucas de Medeiros Silva, tenho 21 anos e sou natural do Mogi das Cruzes - SP. Atualmente, estou cursando Engenharia de Software na Estácio e estudando pela Alura. Hoje atuo como freelancer e procuro vagas como Dev Frontend mas quero me especializar mais para se tornar um desenvolvedor FullStack no futuro. Sinta-se a vontade para ver meus projetos pessoais e entrar em contato. 
 
 ---
 
