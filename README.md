@@ -1,4 +1,4 @@
-<img width="1920" height="863" alt="image" src="https://github.com/user-attachments/assets/b89504ec-3de0-48df-bd90-bd2d82e4fbe6" /># 👩🏻‍💻 Lucas Silva
+# 👩🏻‍💻 Lucas Silva
 
 **`Desenvolvedor FullStack`**
 
