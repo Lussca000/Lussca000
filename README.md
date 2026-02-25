@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Lucas de Medeiros Silva, tenho 21 anos e sou natural do Mogi das Cruzes - SP. Atualmente, estou cursando Engenharia de Software na Estácio e estudando pela Alura. Hoje atuo como freelancer e procuro vagas como Dev Frontend mas quero me especializar mais para se tornar um desenvolvedor FullStack no futuro. Sinta-se a vontade para ver meus projetos pessoais e entrar em contato. 
+Me chamo Lucas de Medeiros Silva, tenho 22 anos e sou natural de Mogi das Cruzes - SP. Atualmente, estou cursando Análise e desenvolvimento de sistemas pela Universidade Cruzeiro do Sul Brás Cubas e estudando pela plataforma online Alura. Hoje atuo como freelancer e procuro vagas como Dev Fullstack e quero me especializar cada vez mais para obter a primeira vaga no futuro. Sinta-se a vontade para ver meus projetos pessoais e entrar em contato. 
 
 ---
 
